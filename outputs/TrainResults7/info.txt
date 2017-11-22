@@ -1,0 +1,9 @@
+COLOR_SPACE = 'LAB'
+
+(35520, 5292)
+Feature vector length: 5292
+141.33 Seconds to train SVC...
+Test Accuracy of SVC =  0.9882
+My SVC predicts:  [ 1.  0.  1.  0.  1.  1.  0.  1.  1.  0.]
+For these 10 labels:  [ 1.  0.  1.  0.  1.  1.  0.  1.  1.  0.]
+0.23437 Seconds to predict 10 labels with SVC
